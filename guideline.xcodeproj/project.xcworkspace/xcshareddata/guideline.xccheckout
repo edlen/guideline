@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>453E5C3C-C566-4971-8857-DA384CD658AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>guideline</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5E6BD58FAC35301F189E03C98EC9F975A885A6FA</key>
+		<string>https://github.com/edlen/guideline.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>guideline.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5E6BD58FAC35301F189E03C98EC9F975A885A6FA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/edlen/guideline.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5E6BD58FAC35301F189E03C98EC9F975A885A6FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5E6BD58FAC35301F189E03C98EC9F975A885A6FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>guideline</string>
+		</dict>
+	</array>
+</dict>
+</plist>
